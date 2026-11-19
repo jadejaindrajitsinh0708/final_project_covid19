@@ -26,7 +26,7 @@ The project uses a CSV dataset (`covid19.csv`) to perform various data analysis 
 ## 📂 Project Structure
 
 ```text
-COVID-19-Data-Analysis/
+
 │
 ├── covid19.csv
 ├── main.py

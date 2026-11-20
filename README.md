@@ -127,7 +127,7 @@ git clone <your-repository-link>
 **Step 2:** Open the project folder.
 
 ```bash
-cd COVID-19-Data-Analysis
+cd final_project_covid19
 ```
 
 **Step 3:** Make sure `covid19.csv` is available in the project folder.
@@ -135,7 +135,7 @@ cd COVID-19-Data-Analysis
 **Step 4:** Run the Python program.
 
 ```bash
-python covid19_analysis.py
+python main.py
 ```
 
 **Step 5:** Enter the CSV filename when prompted.
